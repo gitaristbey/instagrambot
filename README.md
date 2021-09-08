@@ -29,5 +29,6 @@ python -m pip install -r .\requirements.txt
 ```
 python instagram.py
 ```
+- Böylelikle Ana Menüye Gidiceksiniz Ana Menüde Yapmak İstediginiz Modülün Yanındaki Sayıyı Giriniz.
 
-# Tamamen Güvenilir Hiçbir Sıkıntısı Yoktur.
+
